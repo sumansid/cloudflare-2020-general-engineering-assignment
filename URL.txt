@@ -1,1 +1,1 @@
-https://sumansid-2021.sumansigdel.workers.dev/ <- replace everything in this file with a single link to your deployed worker.
+https://sumansid-2021.sumansigdel.workers.dev/
